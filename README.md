@@ -1,26 +1,40 @@
-# Payroc Mobile SDK Docs 
+![Payroc Mobile SDK: Omnichannel payments](PayrocBanner.jpg)
 
-This project was created to house public facing documentation for Payroc LLC's mobile SDKs. Currently these SDKs target Mobile POS (Point of Sale) applications, and gives them to accept payments using a drop-in certified semi-integrated EMV solution. 
+<p align="center">
+<img src="https://img.shields.io/badge/platform-iOS-blue.svg?style=flat" alt="Platform iOS" />
+<img src="https://img.shields.io/badge/platform-Android-blue.svg?style=flat" alt="Platform Android" />
+<img src="http://img.shields.io/badge/license-All Rights Reserved-red.svg?style=flat" alt="License: None" />
+</p>
 
-For more information surrounding the payments industry, and how Payroc fits within that space visit: [https://www.payroc.com](https://www.payroc.com) 
+Made with ❤️ by [Payroc LLC](https://www.payroc.com).
+
+## Overview
+
+<table>
+  <tr>
+    <th>
+      <img src="Example/Media/PayrocMPOSExample1.png" width="220" alt=""/>
+    </th>
+    <th>
+      <img src="Example/Media/PayrocMPOSExample2.png" width="220" alt=""/>
+    </th>
+    <th>
+    <img src="Example/Media/PayrocMPOSExample3.png" width="220" alt=""/>
+    </th>
+  </tr>
+</table>
+
+GIFs COMING SOON! STAY TUNED!
 
 ## Getting Started
 
 These instructions will get the SDK installed and running on your local machine for development and testing purposes within your mobile application. See deployment for notes on how to deploy the project on a live system.
 
-Ready to get started? [Full Wiki](https://github.com/payroc/mobile_sdks/wiki)
-
-### Android Developers
-
-[POS SDK for Android Wiki](https://github.com/payroc/mobile_sdks/wiki/Android-POS-SDK)
-
-### iOS Developers
-
-COMING SOON
+Ready to get started? Docs for each supported platform are found [here](https://github.com/payroc/mobile_sdks/wiki)
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/payroc/mobile_sdk/tags). 
+We use [SemVer](http://semver.org/) for versioning on all projects. For the versions available, see the [tags on this repository](https://github.com/payroc/mobile_sdk/tags). 
 
 ## Authors
 
