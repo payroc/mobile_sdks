@@ -49,6 +49,10 @@ We use [SemVer](http://semver.org/) for versioning on all projects. For the vers
 
 See also the list of [contributors](https://github.com/payroc/mobile_sdks/contributors) who participated in this project.
 
+## License
+
+© All rights reserved Payroc LLC. 
+
 ## Acknowledgments
 
 * [DSpread](https://gitlab.com/dspread) - MPOS SDK Provider for EMV Bluetooth Hardware 
