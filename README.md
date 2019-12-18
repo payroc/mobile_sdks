@@ -47,7 +47,7 @@ We use [SemVer](http://semver.org/) for versioning on all projects. For the vers
 
 * **Preston Farr** - *Lead Mobile Developer* - [Payroc](https://github.com/payroc)
 
-See also the list of [contributors](https://github.com/payroc/mobile_sdk/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/payroc/mobile_sdks/contributors) who participated in this project.
 
 ## Acknowledgments
 
