@@ -33,6 +33,8 @@ Currently the SDK is undergoing certifications with TSYS using the IBX Gateway. 
 
 ## Getting Started
 
+Ever wanted to accept EMV Payments in your own Android or iOS app? Payroc has you covered. We have created a drop-in MPOS solution for merchants to accept EVM, Manual, Swipe, and other payments in their own app flow, without all the extra PCI overhead (not to mention the added certification costs.) Interested in learning more? Visit our website, or reach out to us and we will be happy to help meet your goals.
+
 These instructions will get the SDK installed and running on your local machine for development and testing purposes within your mobile application. See deployment for notes on how to deploy the project on a live system.
 
 Ready to get started? Docs for each supported platform are found [here](https://github.com/payroc/mobile_sdks/wiki)
