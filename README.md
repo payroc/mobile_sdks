@@ -26,6 +26,11 @@ Made with ❤️ by [Payroc LLC](https://www.payroc.com).
 
 GIFs COMING SOON! STAY TUNED!
 
+
+# SDK STILL IN CERTIFICATION
+
+Currently the SDK is undergoing certifications with TSYS using the IBX Gateway. We will update here once it is finished. until then, DO NOT USE THIS SDK FOR PRODUCITON. 
+
 ## Getting Started
 
 These instructions will get the SDK installed and running on your local machine for development and testing purposes within your mobile application. See deployment for notes on how to deploy the project on a live system.
