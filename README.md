@@ -1,9 +1,9 @@
 ![Payroc Mobile SDK: Omnichannel payments](PayrocBanner.jpg)
 
 <p align="center">
-<img src="https://img.shields.io/badge/platform-iOS-blue.svg?style=flat" alt="Platform iOS" />
-<img src="https://img.shields.io/badge/platform-Android-blue.svg?style=flat" alt="Platform Android" />
-<img src="http://img.shields.io/badge/license-All Rights Reserved-red.svg?style=flat" alt="License: None" />
+<a href="https://github.com/payroc/mobile_sdks/wiki/iOS-MPOS-SDK"><img src="https://img.shields.io/badge/platform-iOS-blue.svg?style=flat" alt="Platform iOS" /></a>
+<a href="https://github.com/payroc/mobile_sdks/wiki/Android-MPOS-SDK"><img src="https://img.shields.io/badge/platform-Android-blue.svg?style=flat" alt="Platform Android" /></a>
+<img src="http://img.shields.io/badge/license-All Rights Reserved-red.svg?style=flat" alt="License: All Rights Reserved" />
 </p>
 
 Made with ❤️ by [Payroc LLC](https://www.payroc.com).
