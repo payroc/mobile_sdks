@@ -26,11 +26,6 @@ Made with ❤️ by [Payroc LLC](https://www.payroc.com).
 
 GIFs COMING SOON! STAY TUNED!
 
-
-# SDK STILL IN CERTIFICATION
-
-Currently the SDK is undergoing certifications with TSYS using the IBX Gateway. We will update here once it is finished. until then, DO NOT USE THIS SDK FOR PRODUCITON. 
-
 ## Getting Started
 
 Ever wanted to accept EMV Payments in your own Android or iOS app? Payroc has you covered. We have created a drop-in MPOS solution for merchants to accept EVM, Manual, Swipe, and other payments in their own app flow, without all the extra PCI overhead (not to mention the added certification costs.) Interested in learning more? Visit our website, or reach out to us and we will be happy to help meet your goals.
