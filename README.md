@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-Made with ❤️ by [Payroc LLC](https://www.payroc.com).
+  Made with ❤️ by <a href="https://www.payroc.com">Payroc LLC</a>
 </p>
 
 ## Overview
