@@ -6,7 +6,9 @@
 <img src="http://img.shields.io/badge/license-All Rights Reserved-red.svg?style=flat" alt="License: All Rights Reserved" />
 </p>
 
+<p align="center">
 Made with ❤️ by [Payroc LLC](https://www.payroc.com).
+</p>
 
 ## Overview
 
